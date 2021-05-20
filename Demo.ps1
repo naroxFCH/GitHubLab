@@ -1,0 +1,1 @@
+Write-host "cool script"
